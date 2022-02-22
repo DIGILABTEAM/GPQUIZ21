@@ -3,11 +3,12 @@ var data =
 	[
 		[
 			{
-				question: "when should be Systemic antitussives recommended",
-				option1: "For a productive cough that interferes with sleep",
-				option2: "Any type of cough",
-				option3: "Usually not recommended",
-				answer: 1
+				question: "Which of the following would be used as a rescue inhaler in case of asthma emergency?",
+				option1: "Budesonide",
+				option2: "Fluticasone furoate",
+				option3: "Albuterol sulfate",
+				option4: "A and C",
+				answer: 3
 			},
 			{
 				question: "The type of emphysema associated with smoking is",
@@ -18,12 +19,12 @@ var data =
 				answer: 2
 			},
 			{
-				question: "Which of the following should not be used to treat a productive cough?",
-				option1: "Guaifenesin",
-				option2: "Dextromethorphan",
-				option3: "Diphenhydramine",
-				option4: "Simple linctus",	
-				answer: 2
+				question: "The following antitussive is present in opium but has no analgesic or addicting properties:",
+				option1: "Noscapine",
+				option2: "Codeine",
+				option3: "Pholcodeine",
+				option4: "Ethylmorphine",
+				answer: 1
 			},
 			{
 				question: "Which drug depolymerises mucopolysaccharides of mucus?",
@@ -34,11 +35,12 @@ var data =
 				answer: 3
 			},
 			{
-				question: "when should be Systemic antitussives recommended",
-				option1: "For a productive cough that interferes with sleep",
-				option2: "Any type of cough",
-				option3: "Usually not recommended",
-				answer: 1
+				question: "Guaiphenesin was first accepted by the USFDA",
+				option1: "As early as 1952",
+				option2: "As early as 1925",
+				option3: "As early as 1975",
+				option4: "As early as 1990",
+			  	answer: 1
 			}
 		]
 	];
